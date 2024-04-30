@@ -11,7 +11,7 @@ rabbitmq_password = os.getenv('RABBITMQ_PASSWORD', 'guest')
 # Configuração dos parâmetros de conexão para apontar para o endereço e porta corretos do RabbitMQ no Minikube
 connection_parameters = pika.ConnectionParameters(
     host=rabbitmq_host,
-    #port=rabbitmq_port,
+    #port=rabbitmq_port, Não usar porta e senha. 
     #credentials=pika.PlainCredentials(rabbitmq_user, rabbitmq_password)
 )
 
