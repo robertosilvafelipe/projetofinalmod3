@@ -1,0 +1,66 @@
+[
+    {
+      "_id": "cliente1",
+      "isActive": true,
+      "cliente": "Cliente fulano",
+      "email": "clientefulanoo@example.com",
+      "endereco": "Cidade H, Estado I, 7000",
+      "datatrasancao": "2025-08-19T08:30:00 +00:00"
+    },
+    {
+      "_id": "cliente2",
+      "isActive": false,
+      "cliente": "Cliente Beltrano",
+      "email": "cliente.beltrano@example.com",
+      "endereco": "Cidade J, Estado K, 8000",
+      "datatrasancao": "2026-12-25T16:00:00 +00:00"
+    },
+    {
+      "_id": "cliente3",
+      "isActive": true,
+      "cliente": "Cliente Sicrano",
+      "email": "cliente.sicrano@example.com",
+      "endereco": "Cidade L, Estado M, 9000",
+      "datatrasancao": "2023-12-10T05:45:00 +00:00"
+    },
+    {
+      "_id": "cliente4",
+      "isActive": false,
+      "cliente": "Cliente Deltrano",
+      "email": "cliente.deltrano@example.com",
+      "endereco": "Cidade N, Estado O, 10000",
+      "datatrasancao": "2027-02-28T06:00:00 +00:00"
+    },
+    {
+      "_id": "cliente1",
+      "isActive": true,
+      "cliente": "Cliente fulano",
+      "email": "clientefulanoo@example.com",
+      "endereco": "Cidade Z, Estado W, 3000",
+      "datatrasancao": "2025-08-19T10:20:00 +00:00"
+    },
+    {
+      "_id": "cliente2",
+      "isActive": false,
+      "cliente": "Cliente Beltrano",
+      "email": "cliente.beltrano@example.com",
+      "endereco": "Cidade V, Estado U, 4000",
+      "datatrasancao": "2026-12-25T17:45:00 +00:00"
+    },
+    {
+      "_id": "cliente3",
+      "isActive": true,
+      "cliente": "Cliente Sicrano",
+      "email": "cliente.sicrano@example.com",
+      "endereco": "Cidade R, Estado Q, 5000",
+      "datatrasancao": "2023-12-10T07:30:00 +00:00"
+    },
+    {
+      "_id": "cliente4",
+      "isActive": false,
+      "cliente": "Cliente Deltrano",
+      "email": "cliente.deltrano@example.com",
+      "endereco": "Cidade O, Estado P, 6000",
+      "datatrasancao": "2027-02-28T06:10:00 +00:00"
+    }
+  ]
